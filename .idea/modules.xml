@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-service.iml" filepath="$PROJECT_DIR$/.idea/modules/config-service.iml" group="config-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-service/config-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-service/config-service_main.iml" group="config-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-service/config-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-service/config-service_test.iml" group="config-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/query-side.iml" filepath="$PROJECT_DIR$/.idea/modules/query-side.iml" group="query-side" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/query-side/query-side_main.iml" filepath="$PROJECT_DIR$/.idea/modules/query-side/query-side_main.iml" group="query-side" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/query-side/query-side_test.iml" filepath="$PROJECT_DIR$/.idea/modules/query-side/query-side_test.iml" group="query-side" />
+    </modules>
+  </component>
+</project>

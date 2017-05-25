@@ -1,0 +1,4 @@
+rootProject.name = 'microservice'
+include 'query-side'
+include 'config-service'
+
