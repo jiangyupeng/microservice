@@ -7,15 +7,15 @@ subprojects {
 
     repositories {
 //    jcenter()
-//    mavenLocal()
-//    mavenCentral()
-        maven {
-            url("https://plugins.gradle.org/m2/")
-//        "http://repo.spring.io/snapshot",
-//        "http://repo.spring.io/milestone",
-//        "https://repo.spring.io/libs-release",
-//        "https://repo.spring.io/plugins-snapshot")
-        }
+    mavenLocal()
+    mavenCentral()
+//        maven {
+//            url("https://plugins.gradle.org/m2/")
+////        "http://repo.spring.io/snapshot",
+////        "http://repo.spring.io/milestone",
+////        "https://repo.spring.io/libs-release",
+////        "https://repo.spring.io/plugins-snapshot")
+//        }
     }
 
     dependencies {
